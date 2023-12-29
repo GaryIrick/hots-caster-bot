@@ -1,0 +1,6 @@
+screeninfo
+pillow
+pygame
+openai
+pydantic
+pydantic-settings
