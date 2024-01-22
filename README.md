@@ -1,1 +1,1 @@
-# host-caster-bot
+# hots-caster-bot
